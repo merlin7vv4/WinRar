@@ -23,7 +23,7 @@ b41bcf56929486b8bcdac33d50ecf773996052598f1f556defffbd
 6e6fb824bcf25f155547b5fc41901ad58c0992f570be1cf5608ba9
 aef69d48c864bcd72d15163897773d314187f6a9af350808719796
 ```
-- Save the Notepad file as rarreg.key  or [Downlpad](rarreg.key)
+- Save the Notepad file as rarreg.key  or [Download](rarreg.key)
 
 - Now go to WinRAR install directory, (c:\ProgramFiles\WinRAR)
 
